@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Nothinglin的个人博客
+title: Zoraling的个人博客
 subtitle: ''
 description: ''
 keywords:
-author: Nothinglin
+author: Zoraling
 language: en
 timezone: ''
 
@@ -105,8 +105,8 @@ theme: nothinglin
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Nothing-lin/blog.git
-  branch: master
+  repo: git@zoraling7.github.com:zoraling7/zoraling7.github.io.git
+  branch: main
 
 # hexo-generator-search站内搜索
 search:
@@ -118,7 +118,7 @@ backup:
     type: git
     theme: coolshell
     repository:
-       github: git@github.com:Nothing-lin/blog.git,branchName
+       github: git@zoraling7.github.com:zoraling7/zoraling7.github.io.git,branchName
 
 # hexo-neat
 # md博文压缩
