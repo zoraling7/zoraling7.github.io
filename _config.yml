@@ -106,7 +106,7 @@ theme: nothinglin
 deploy:
   type: git
   repo: git@zoraling7.github.com:zoraling7/zoraling7.github.io.git
-  branch: main
+  branch: blog
 
 # hexo-generator-search站内搜索
 search:
