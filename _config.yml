@@ -105,7 +105,7 @@ theme: nothinglin
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@zoraling7.github.com:zoraling7/zoraling7.github.io.git
+  repo: git@github.com:zoraling7/zoraling7.github.io.git
   branch: blog
 
 # hexo-generator-search站内搜索
