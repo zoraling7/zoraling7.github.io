@@ -30,11 +30,11 @@ AuthorInfo: "我是Zora，喜欢夏多布里昂和苏轼！欢迎来我的博客
 shareHref:
   wechat: /img/mywechat.jpg
   public: /img/subscribe.jpg
-  zhihu: https://www.zhihu.com/
-  jianshu: https://www.jianshu.com/
-  github: https://zoraling7.github.io
-  weibo:
-  rss:
+  zhihu: nothing
+  jianshu: nothing
+  github: nothing
+  weibo: nothing
+  rss: nothing
 
 ## Feed
 rss: /atom.xml
