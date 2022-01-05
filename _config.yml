@@ -118,7 +118,7 @@ backup:
     type: git
     theme: coolshell
     repository:
-       github: git@zoraling7.github.com:zoraling7/zoraling7.github.io.git,branchName
+       github: git@github.com:zoraling7/zoraling7.github.io.git,branchName
 
 # hexo-neat
 # md博文压缩
