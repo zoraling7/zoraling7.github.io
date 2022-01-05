@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zoraling的个人博客</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-01-05T10:18:58.082Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Zoraling</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>标题要写在这里吗？</title>
+    <link href="http://example.com/2022/01/05/%E7%B4%A7%E5%BC%A0%E7%9A%84%E5%88%86%E5%AD%90%E6%AD%A3%E5%9C%A8%E5%87%9D%E8%81%9A/"/>
+    <id>http://example.com/2022/01/05/%E7%B4%A7%E5%BC%A0%E7%9A%84%E5%88%86%E5%AD%90%E6%AD%A3%E5%9C%A8%E5%87%9D%E8%81%9A/</id>
+    <published>2022-01-05T10:18:58.082Z</published>
+    <updated>2022-01-05T10:18:58.082Z</updated>
+    
+    <content type="html"><![CDATA[<p>哈喽！hello!我最近在关于信仰的话剧剧本。初次写话剧剧本好紧张！<br>标题是《重建》，主旨：信仰是每个人自己给自己写的剧本。这个时代需要信仰，上帝、科学、金钱，甚至爱情、因特网，信仰是多元的。只要不伤天害理，不放火杀人，那信仰就是前进的指南针，是值得演绎的剧本。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;哈喽！hello!我最近在关于信仰的话剧剧本。初次写话剧剧本好紧张！&lt;br&gt;标题是《重建》，主旨：信仰是每个人自己给自己写的剧本。这个时代需要信仰，上帝、科学、金钱，甚至爱情、因特网，信仰是多元的。只要不伤天害理，不放火杀人，那信仰就是前进的指南针，是值得演绎的剧本。&lt;/p</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
