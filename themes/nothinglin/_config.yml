@@ -9,7 +9,7 @@ widgetpack:
   color:  fc6423
 
 # title
-title: Nothinglin的个人博客
+title: Zoraling7的个人博客
 
 # 来必力评论系统
 # livere配置
@@ -30,9 +30,9 @@ AuthorInfo: "我是Zora，喜欢夏多布里昂和苏轼！欢迎来我的博客
 shareHref:
   wechat: /img/mywechat.jpg
   public: /img/subscribe.jpg
-  zhihu: https://www.zhihu.com/people/nothing-86-28-47
-  jianshu: https://www.jianshu.com/u/a47e6b0d2a32
-  github: https://github.com/Nothing-lin
+  zhihu: https://www.zhihu.com/
+  jianshu: https://www.jianshu.com/
+  github: https://zoraling7.github.io
   weibo:
   rss:
 
