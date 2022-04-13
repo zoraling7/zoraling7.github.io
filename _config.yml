@@ -116,9 +116,9 @@ search:
   # 备份我的hexo博客
 backup:
     type: git
-    theme: coolshell
+    theme: nothinglin
     repository:
-       github: git@github.com:zoraling7/zoraling7.github.io.git,master
+       github: https://github.com/zoraling7/zoraling7.github.io.git,master
 
 # hexo-neat
 # md博文压缩
