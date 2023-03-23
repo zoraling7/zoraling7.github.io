@@ -1,8 +1,8 @@
 ---
-title:  writing task2 常用表达
+title: WRITING TASK 2 常用表达
 index_img: /img/default.png
 author: Zora
-date: 2023-02-24 17:33:00
+date: 2023-03-23 17:33:00
 tags: 易碎物制造笔记
 categories: 易碎物制造笔记
 ---

@@ -1,8 +1,8 @@
 ---
-title:  HAM_A
+title: A类
 index_img: /img/default.png
 author: Zora
-date: 2023-03-14 17:33:00
+date: 2023-03-22 17:33:00
 tags: 易碎物制造笔记
 categories: 易碎物制造笔记
 ---
