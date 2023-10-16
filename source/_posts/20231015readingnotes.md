@@ -2,7 +2,7 @@
 title: 20231015 reading notes
 index_img: /img/default.png
 author: Zora
-date: 2022-12-26 17:33:00
+date: 2023-10-16 17:33:00
 tags: 易碎物制造笔记
 categories: 易碎物制造笔记
 ---
